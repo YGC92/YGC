@@ -420,6 +420,7 @@
 				BC8EB62C1C0BB8200082B3E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
